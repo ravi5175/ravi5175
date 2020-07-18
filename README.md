@@ -1,7 +1,7 @@
 ### Hi there 👋
----?image=images/bg.png
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ravi5175)
 
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ravi5175)
+---?image=images/bg.png
 <!--
 **ravi5175/ravi5175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
