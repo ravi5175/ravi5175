@@ -1,5 +1,5 @@
 ### Hi there 👋
----?image=img/bg.png
+---?image=images/bg.png
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ravi5175)
 
 <!--
