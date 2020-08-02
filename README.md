@@ -3,7 +3,6 @@
 [![Generic badge](https://img.shields.io/badge/TOOL-VSCODE-PURPLE.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/TOOL-ASTUDIO-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/TECH-FLASK-BLUE.svg)](https://shields.io/)
-
 [![Generic badge](https://img.shields.io/badge/TECH-ANDROID-GREEN.svg)](https://shields.io/)
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/ravi5175/freshlybuiltimagejaano)](https://GitHub.com/ravi5175/freshlybuiltimagejaano/issues?q=is%3Aissue+is%3Aclosed)
 
