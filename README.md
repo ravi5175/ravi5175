@@ -1,5 +1,6 @@
 ### Hi there 👋, its ravi5175, Writing my own life's Algorithm (Open Source)...
 [![Generic badge](https://img.shields.io/badge/USES-VSCODE-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/USES-ASTUDIO-<COLOR>.svg)](https://shields.io/)
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/ravi5175/StrapDown.js.svg)](https://GitHub.com/ravi5175/StrapDown.js/issues?q=is%3Aissue+is%3Aclosed)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ravi5175&count_private=true&show_icons=true)
