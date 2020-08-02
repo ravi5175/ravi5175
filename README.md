@@ -1,7 +1,8 @@
 ### Hi there 👋, its ravi5175, Writing my own life's Algorithm (Open Source)...
 [![Generic badge](https://img.shields.io/badge/WEAPON-PYTHON-YELLOW.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/USES-VSCODE-PURPLE.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/USES-ASTUDIO-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/TOOL-VSCODE-PURPLE.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/TOOL-ASTUDIO-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/TECH-FLASK-GREY.svg)](https://shields.io/)
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/ravi5175/freshlybuiltimagejaano)](https://GitHub.com/ravi5175/freshlybuiltimagejaano/issues?q=is%3Aissue+is%3Aclosed)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ravi5175&count_private=true&show_icons=true)
