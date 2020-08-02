@@ -1,5 +1,4 @@
-### Hi there 👋, its ravi5175
-Writing my own life's Algorithm (Open Source)...
+### Hi there 👋, its ravi5175, Writing my own life's Algorithm (Open Source)...
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ravi5175&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi5175&hide=jupyter%20notebook&layout=compact)](https://github.com/ravi5175/github-readme-stats)
