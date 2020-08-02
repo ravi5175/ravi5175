@@ -4,7 +4,7 @@
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ravi5175&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi5175&layout=compact?hide=jupyter)](https://github.com/ravi5175/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi5175&layout=compact&hide=jupyter)](https://github.com/ravi5175/github-readme-stats)
 <!--
 **ravi5175/ravi5175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
