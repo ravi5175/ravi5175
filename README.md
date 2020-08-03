@@ -1,7 +1,7 @@
 ### Hi there 👋, its ravi5175, Writing my own life's Algorithm (Open Source)...
 [![Generic badge](https://img.shields.io/badge/DISCORD-Ravi6797-NAVY.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/WEAPON-PYTHON-YELLOW.svg)](https://shields.io/)
-[![VS Code](https://img.shields.io/badge/VSCODE-P USER-PURPLE.svg?logo=visual-studio-code)](https://shields.io/)
+[![VS Code](https://img.shields.io/badge/VSCODE-P_USER-PURPLE.svg?logo=visual-studio-code)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/TOOL-ASTUDIO-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/TECH-FLASK-BLUE.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/TECH-ANDROID-GREEN.svg)](https://shields.io/)
