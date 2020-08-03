@@ -3,9 +3,8 @@
 [![Generic badge](https://img.shields.io/badge/DISCORD-Ravi%236797-navy?logo=Discord)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/WEAPON-PYTHON-YELLOW.svg)](https://shields.io/)
 [![VS Code](https://img.shields.io/badge/_-VSCODE-PURPLE.svg?logo=visual-studio-code)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/TOOL-ASTUDIO-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/TECH-FLASK-BLUE.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/TECH-ANDROID-GREEN.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/ANDROID%20STUDIO-badge-green?logo=Android%20Studio)](https://shields.io/)
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/ravi5175/freshlybuiltimagejaano)](https://GitHub.com/ravi5175/freshlybuiltimagejaano/issues?q=is%3Aissue+is%3Aclosed)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ravi5175&count_private=true&show_icons=true)
