@@ -4,7 +4,8 @@
 ![Discord](https://img.shields.io/discord/710221986844115096?color=YELLOW&label=FRESHLYBUILT%20SERVER)\
 [![Generic badge](https://img.shields.io/badge/CSGO-BOT%20S1MPLE-red?logo=counter%20strike)](https://shields.io/)\
 [![Generic badge](https://img.shields.io/badge/PYTHON-main-YELLOW.svg?logo=python&logoColor=white)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/C++-sec-blue.svg?logo=c++)](https://shields.io/)\
+[![Generic badge](https://img.shields.io/badge/C++-sec-blue.svg?logo=c++)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/JAVA-sec-orange.svg?logo=java&logoColor=white)](https://shields.io/)\
 [![VS Code](https://img.shields.io/badge/VS%20CODE-badge-PURPLE.svg?logo=visual-studio-code)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/UNITY-badge-AQUA?logo=unity)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/ANACONDA-badge-GREEN?logo=anaconda)](https://shields.io/)
