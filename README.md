@@ -6,7 +6,8 @@
 [![Generic badge](https://img.shields.io/badge/PYTHON-main-YELLOW.svg?logo=python&logoColor=white)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/C++-sec-blue.svg?logo=c++)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/JAVA-sec-orange.svg?logo=java&logoColor=white)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/HTML-sec-purple.svg?logo=html5)](https://shields.io/)\
+[![Generic badge](https://img.shields.io/badge/HTML-sec-purple.svg?logo=html5)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/CSS-sec-purple.svg?logo=css3)](https://shields.io/)\
 [![VS Code](https://img.shields.io/badge/VS%20CODE-badge-PURPLE.svg?logo=visual-studio-code)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/UNITY-badge-AQUA?logo=unity)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/ANACONDA-badge-GREEN?logo=anaconda)](https://shields.io/)
