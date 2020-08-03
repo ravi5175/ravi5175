@@ -1,9 +1,10 @@
 ### Hi there 👋, its ravi5175, writing my own life's Algorithm (Open Source)...
 ![GitHub followers](https://img.shields.io/github/followers/ravi5175?label=FOLLOWERS&logo=GitHub)
-[![Generic badge](https://img.shields.io/badge/DISCORD-Ravi%236797-navy?logo=Discord)](https://shields.io/)\
+[![Generic badge](https://img.shields.io/badge/DISCORD-Ravi%236797-navy?logo=Discord)](https://shields.io/)
+![Discord](https://img.shields.io/discord/710221986844115096?color=YELLOW&label=FRESHLYBUILT%20SERVER)\
 [![Generic badge](https://img.shields.io/badge/CSGO-BOT%20S1MPLE-red?logo=counter%20strike)](https://shields.io/)\
 [![Generic badge](https://img.shields.io/badge/PYTHON-main-YELLOW.svg?logo=python&logoColor=white)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/C++-sec-blue.svg?logo=c%23+%23+&logoColor=white)](https://shields.io/)\
+[![Generic badge](https://img.shields.io/badge/C++-sec-blue.svg?logo=c++)](https://shields.io/)\
 [![VS Code](https://img.shields.io/badge/VS%20CODE-badge-PURPLE.svg?logo=visual-studio-code)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/UNITY-badge-AQUA?logo=unity)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/ANDROID%20STUDIO-badge-green?logo=Android%20Studio)](https://shields.io/)\
