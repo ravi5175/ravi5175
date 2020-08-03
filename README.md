@@ -1,5 +1,5 @@
 ### Hi there 👋, its ravi5175, Writing my own life's Algorithm (Open Source)...
-[![Generic badge](https://img.shields.io/badge/DISCORD-Ravi#6797-AQUA.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/DISCORD-Ravi6797-AQUA.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/WEAPON-PYTHON-YELLOW.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/TOOL-VSCODE-PURPLE.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/TOOL-ASTUDIO-<COLOR>.svg)](https://shields.io/)
