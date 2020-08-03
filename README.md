@@ -2,7 +2,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/ravi5175?label=FOLLOWERS&logo=GitHub)
 [![Generic badge](https://img.shields.io/badge/DISCORD-Ravi%236797-navy?logo=Discord)](https://shields.io/)
 ![Discord](https://img.shields.io/discord/710221986844115096?color=YELLOW&label=FRESHLYBUILT%20SERVER)\
-[![Generic badge](https://img.shields.io/badge/CSGO-BOT%20S1MPLE-red?logo=counter%20strike)](https://shields.io/)\
+[![Generic badge](https://img.shields.io/badge/CSGO-BOT%20S1MPLE-red?logo=counter%20strike)](https://shields.io/)
+![Discord](https://img.shields.io/discord/710221986844115096?color=YELLOW&label=NK%20GAMING%20SERVER)\
 [![Generic badge](https://img.shields.io/badge/PYTHON-main-YELLOW.svg?logo=python&logoColor=white)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/C++-sec-blue.svg?logo=c++)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/JAVA-sec-orange.svg?logo=java&logoColor=white)](https://shields.io/)
