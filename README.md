@@ -15,6 +15,7 @@
 [![Generic badge](https://img.shields.io/badge/BLENDER-badge-ORANGE?logo=BLENDER)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/ANDROID%20STUDIO-badge-green?logo=Android%20Studio)](https://shields.io/)\
 [![Generic badge](https://img.shields.io/badge/FLASK-badge-BLUE.svg?logo=Flask)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/XAMPP-badge-ORANGE.svg?logo=XAMPP)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/ANDROID-badge-GREEN.svg?logo=android)](https://shields.io/)\
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/ravi5175/freshlybuiltimagejaano)](https://GitHub.com/ravi5175/freshlybuiltimagejaano/issues?q=is%3Aissue+is%3Aclosed)
 
