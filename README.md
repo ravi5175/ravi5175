@@ -17,7 +17,7 @@
 [![Generic badge](https://img.shields.io/badge/FLASK-badge-BLUE.svg?logo=Flask)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/XAMPP-badge-ORANGE.svg?logo=XAMPP)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/ANDROID-badge-GREEN.svg?logo=android)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/MY%20SQL-badge-BROWN.svg?logo=MySql)](https://shields.io/)\
+[![Generic badge](https://img.shields.io/badge/MY%20SQL-badge-BROWN.svg?logo=MySql)](https://shields.io/)
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ravi5175&count_private=true&show_icons=true)
