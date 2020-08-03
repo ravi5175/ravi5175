@@ -4,6 +4,7 @@
 [![Generic badge](https://img.shields.io/badge/CSGO-BOT%20S1MPLE-red?logo=counter%20strike)](https://shields.io/)\
 [![Generic badge](https://img.shields.io/badge/PYTHON-main-YELLOW.svg?logo=python&logoColor=white)](https://shields.io/)\
 [![VS Code](https://img.shields.io/badge/VS%20CODE-badge-PURPLE.svg?logo=visual-studio-code)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/UNITY-badge-AQUA?logo=unity)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/ANDROID%20STUDIO-badge-green?logo=Android%20Studio)](https://shields.io/)\
 [![Generic badge](https://img.shields.io/badge/FLASK-badge-BLUE.svg?logo=Flask)](https://shields.io/)\
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/ravi5175/freshlybuiltimagejaano)](https://GitHub.com/ravi5175/freshlybuiltimagejaano/issues?q=is%3Aissue+is%3Aclosed)
