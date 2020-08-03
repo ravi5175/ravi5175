@@ -1,4 +1,5 @@
 ### Hi there 👋, its ravi5175, Writing my own life's Algorithm (Open Source)...
+https://img.shields.io/github/followers/ravi5175
 [![Generic badge](https://img.shields.io/badge/DISCORD-Ravi6797-NAVY.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/WEAPON-PYTHON-YELLOW.svg)](https://shields.io/)
 [![VS Code](https://img.shields.io/badge/_-VSCODE-PURPLE.svg?logo=visual-studio-code)](https://shields.io/)
