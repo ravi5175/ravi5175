@@ -1,9 +1,9 @@
 ### Hi there 👋, its ravi5175, writing my own life's Algorithm (Open Source)...
-### Social
+ Social
 ![GitHub followers](https://img.shields.io/github/followers/ravi5175?label=FOLLOWERS&logo=GitHub)
 [![Generic badge](https://img.shields.io/badge/DISCORD-Ravi%236797-navy?logo=Discord)](https://shields.io/)
 ![Discord](https://img.shields.io/discord/710221986844115096?color=YELLOW&label=FRESHLYBUILT%20SERVER)\
-### ESPORTS
+ ESPORTS
 [![Generic badge](https://img.shields.io/badge/CSGO-BOT%20S1MPLE-red?logo=counter%20strike)](https://shields.io/)
 ![Discord](https://img.shields.io/discord/412897292543328275?color=YELLOW&label=NK%20GAMING%20SERVER)\
 ### LANGUAGES
