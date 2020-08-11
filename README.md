@@ -14,7 +14,6 @@
 [![Generic badge](https://img.shields.io/badge/ANACONDA-badge-GREEN?logo=anaconda)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/BLENDER-badge-ORANGE?logo=BLENDER)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/ANDROID%20STUDIO-badge-green?logo=Android%20Studio)](https://shields.io/)\
- Expirience\
 [![Generic badge](https://img.shields.io/badge/FLASK-badge-BLUE.svg?logo=Flask)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/XAMPP-badge-ORANGE.svg?logo=XAMPP)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/ANDROID-badge-GREEN.svg?logo=android)](https://shields.io/)
